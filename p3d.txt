@@ -2,3 +2,4 @@ p3d 2021
 - belajar membuat website yang terbaik
 - membuat platform untuk bahan skripsi nanti
 - p3d ini merupakan program pemerintah
+- kolaborasi dengan ukm saintek
